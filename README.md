@@ -15,7 +15,7 @@ All tools should be installed in conda fresh env.
 
  - assembly with MEGAHIT;  
  - kraken2 with pluspf base;  
- - binning with SemiBin2 in mode ```--oral-sample```;  
+ - binning with SemiBin2 in mode ```human_oral```;  
  - realignment of reads to assembly with bwa-mem2 and strobealign;  
  - storbealign with AEMB mode;  
  - saving all logs and benchmarks files.
